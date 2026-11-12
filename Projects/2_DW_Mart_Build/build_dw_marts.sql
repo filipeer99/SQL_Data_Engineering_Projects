@@ -5,3 +5,6 @@
 
 --2. Load data from csv files into the data warehouse tables
 .read 02_load_schema_dw.sql
+
+-- 3. Mart - Create Flat Mart Table
+.read 03_create_flat_mart.sql
