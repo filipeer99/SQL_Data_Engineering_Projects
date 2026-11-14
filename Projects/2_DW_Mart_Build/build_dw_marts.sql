@@ -8,3 +8,6 @@
 
 -- 3. Mart - Create Flat Mart Table
 .read 03_create_flat_mart.sql
+
+-- 4. Mart - Create skills demand mart
+.read 04_create_skills_mart.sql
