@@ -11,3 +11,12 @@
 
 -- 4. Mart - Create skills demand mart
 .read 04_create_skills_mart.sql
+
+-- 5. Mart - Create Priority Roles Mart
+.read 05_create_priority_mart.sql
+
+-- 6. Mart - Update priority roles mart (incremental update)
+.read 06_update_priority_mart.sql
+
+-- 7. Mart - Create company prospecting mart (dimensional mart)
+.read 07_create_company_mart.sql
