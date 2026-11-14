@@ -1,2 +1,8 @@
+# Local databases
+*.duckdb
+*.duckdb.wal
+*.sqlite
+*.db
+
 # System Files
 .DS_Store
